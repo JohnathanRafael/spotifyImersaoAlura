@@ -14,3 +14,4 @@ O projeto consiste em desenvolver uma página web igual a do Spotify.
 * [ChatGPT e Engenharia de Prompt: Técnicas para o Prompt Perfeito](https://www.youtube.com/watch?v=NsXfldreSPQ&list=PLh2Y_pKOa4Ud316ih975nbh3YbF5R4uZP)
 * [Jogo Grid Garden](https://cssgridgarden.com/)
 * [Jogo Flexbox Froggy](https://flexboxfroggy.com/)
+* [Claude AI](https://claude.ai/login?returnTo=%2F%3F)
